@@ -12,3 +12,7 @@
 *::selection {
   background: #9dd3ff;
 }
+
+html {
+  font-family: Arial, Helvetica, sans-serif;
+}

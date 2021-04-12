@@ -1,0 +1,16 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    &::selection{
+        background: #9dd3ff;
+    }
+}
+html{
+    // @font-face {
+    //     font-family: 'DIN ';
+    //     src: local('DIN light'), url(./fonts/DINAlternate-Bold.ttf);
+    // }
+    font-family: Arial, Helvetica, sans-serif;
+    
+}
